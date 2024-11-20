@@ -5,7 +5,7 @@
 # __  /_/ /  __ `/_  __ `__ \_  / / /_  /__  ___/_  //_/
 # _  _, _// /_/ /_  / / / / /  /_/ /_  / _(__  )_  ,<
 # /_/ |_| \__,_/ /_/ /_/ /_//_____/ /_/  /____/ /_/|_|
-# Version 1.0  (c) 2024 MS-Design  https://github.com/XMhat
+# Version 1.0  (c) 2024 MS-Design  https://github.com/Mhatxotic
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the “Software”), to deal
